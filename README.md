@@ -1,8 +1,8 @@
 ## Bálint Balázs
 
-Software Engineering student at FH Hagenberg · Software Engineering Intern at Dynatrace, Linz
+Software Engineering student at FH Hagenberg · Software Engineering Intern at Dynatrace, Linz · HTL Leonding graduate
 
-Working on AI security and LLM agents.
+Working on AI security and LLM agents. In my free time, I build apps.
 
 ### Tech
 
